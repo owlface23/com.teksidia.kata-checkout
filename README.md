@@ -1,13 +1,16 @@
 # Checkout Kata
 
-This is an example solution for Dave Thomas's (Checkout kata)[http://codekata.com/kata/kata09-back-to-the-checkout/].
+Some example solutions for Dave Thomas's (Checkout kata)[http://codekata.com/kata/kata09-back-to-the-checkout/].
 
-It was completed using TDD to produce an iterative red-green-refactor design.
+These were completed using TDD to produce an iterative red-green-refactor design.
+
+It's an interesting point that every time I do this (or any Kata), I never do it the same twice! Some solutions are better than others, but it proves there's many ways to get software working!
 
 Includes:
 
-    * C# Solution (using NUnit)
+    * Oct 2016 attempt - C# Solution (using .NET Framework 4.5 / NUnit) 
+    * Mar 2021 attempt - C# Solution (using .NET 5 / xUnit) - an improvement I think!
 
-Jamie Cox (@jcox_teksidia)
+By Jamie Cox 
 
-Read my blog @ (www.teksidia.com)[www.teksidia.com]
+www.teksidia.com
